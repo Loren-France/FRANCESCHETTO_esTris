@@ -1,0 +1,10 @@
+body{
+    background-color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.caselle{
+    height: 100px;
+    width: 100px;
+    size: auto;
+    font-size: 40px;
+}
